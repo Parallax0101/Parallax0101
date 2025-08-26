@@ -18,4 +18,4 @@
 
 ### Contatos
 
-[img src='https://img.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/gabriel-aureglietti-b05443258/)
+[img src='http://img.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/gabriel-aureglietti-b05443258/)
