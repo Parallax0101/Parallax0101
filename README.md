@@ -6,7 +6,7 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=Parallax0101&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
 
@@ -14,9 +14,9 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=Parallax0101&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
 ### Contatos
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/gabriel-aureglietti-b05443258/)
