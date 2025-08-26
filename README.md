@@ -6,15 +6,15 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.appapiusername=Parallax0101&show_icons=true&theme=dark)](https://github.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parallax0101&theme=THEME_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.appapipinusername=Parallax0101&repo=variavel&theme=dark)](https://github.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parallax0101&theme=THEME_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.appapitop-langsusername=Parallax0101&layout=compact)](https://github.comanuraghazragithub-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parallax0101&theme=THEME_dark&hide=contribs,prs)
 
 
 ### Contatos
