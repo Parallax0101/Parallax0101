@@ -14,8 +14,3 @@
 ### Linguagens utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parallax0101&theme=THEME_dark&layout=compact)
-
-
-### Contatos
-
-[img src='http://img.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/gabriel-aureglietti-b05443258/)
