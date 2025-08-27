@@ -9,7 +9,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parallax0101&theme=THEME_dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parallax0101&theme=THEME_dark&repo=https://parallax0101.github.io/)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
